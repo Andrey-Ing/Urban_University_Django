@@ -9,12 +9,12 @@ def platform_view(request):
 
 def aircraft_view(request):
     context = {
-        'Россия': 'ОКБ С.В. Ильюшина',
-        'Европейский_Союз': 'Airbus S.A.S.',
-        'США': 'Boeing',
+        'russian': 'ОКБ С.В. Ильюшина',
+        'european': 'Airbus S.A.S.',
+        'american': 'Boeing',
     }
-    return render(request, 'third_task/aircraft.html', context)
+    return render(request, 'third_task/games.html', context)
 
 
 def cars_view(request):
-    return render(request, 'third_task/cars.html')
+    return render(request, 'third_task/cart.html')

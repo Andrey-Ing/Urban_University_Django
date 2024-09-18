@@ -4,21 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d2230ed-5193-4260-836b-5d8bc2e71484" name="Changes" comment="Домашнее задание по теме &quot;Urls и Views Функциональное и классовое представление.&quot;">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/task3/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/aircraft.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/cars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/platform.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Urban_University_Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Urban_University_Django.iml" afterDir="false" />
+    <list default="true" id="2d2230ed-5193-4260-836b-5d8bc2e71484" name="Changes" comment="Домашнее задание по теме &quot;Базовые HTML тэги в шаблонах&quot;">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task4/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/games.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fourth_task/platform.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/task3/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/task3/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/aircraft.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/aircraft.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +59,19 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/I/PycharmProjects/Urban_University_Django/UrbanDjango/templates/third_task&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\I\PycharmProjects\Urban_University_Django\UrbanDjango\templates\third_task" />
+      <recent name="C:\Users\I\PycharmProjects\Urban_University_Django\UrbanDjango\templates\fourth_task" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\I\PycharmProjects\Urban_University_Django\UrbanDjango\templates\fourth_task" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -100,12 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721696480390</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Домашнее задание по теме &quot;Базовые HTML тэги в шаблонах&quot;">
+      <option name="closed" value="true" />
+      <created>1722392757070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722392757070</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Проект создан" />
     <MESSAGE value="Домашнее задание по теме &quot;Urls и Views Функциональное и классовое представление.&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Urls и Views Функциональное и классовое представление.&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Базовые HTML тэги в шаблонах&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Базовые HTML тэги в шаблонах&quot;" />
   </component>
 </project>
